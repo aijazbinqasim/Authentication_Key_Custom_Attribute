@@ -1,0 +1,6 @@
+@Authentication_Key_Custom_Attribute_HostAddress = http://localhost:5266
+
+GET {{Authentication_Key_Custom_Attribute_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
